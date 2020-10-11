@@ -1,0 +1,16 @@
+{
+"companyName": "Donut Studio",
+"productName": "Buttons and Boxes",
+"productVersion": "1.0",
+"dataUrl": "BnB_2019_ReleaseBuild.data.unityweb",
+"wasmCodeUrl": "BnB_2019_ReleaseBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "BnB_2019_ReleaseBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
